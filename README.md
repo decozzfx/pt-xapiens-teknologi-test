@@ -2,7 +2,7 @@
 
 1. Clone the repository
 
-    > git clone https://github.com/decozzfx/pt-xapiens-teknologi-test.git
+    > git clone https://github.com/decozzfx/pt-xapiens-teknologi-test-web.git
 
 2. install packages
 
